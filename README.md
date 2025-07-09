@@ -17,7 +17,7 @@ Para rodar o repositório é necessário baixar e extrair o projeto, depois abri
 index.html
 ```
 
-![Foto do projeto rodando](/screenshot.png)
+![Foto do projeto rodando](/img/Screenshot.png)
 
 ## :dart: Status do projeto / Project status
 * Concluído! / Concluded! :ballot_box_with_check:
