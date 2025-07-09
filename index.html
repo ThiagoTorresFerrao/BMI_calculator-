@@ -16,22 +16,20 @@
 		</label>
 
 		<label>
-			Altura (Cm)
+			Altura (cm)
 			<input type="number" min="0" required id="height">
 		</label>
 
 		<label>
-			Peso (Kg)
+			Peso (kg)
 			<input type="number" min="0" required id="weight">
 		</label>
 
 		<button onclick="calcImc()">Calcular</button>
 
-		<div id="result">
-			
-		</div>
+		<div id="message"></div> <!-- Mensagens de erro -->
+		<div id="result"></div>  <!-- Resultado do IMC -->
 	</main>
-
 
 	<script src="app.js"></script>
 </body>

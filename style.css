@@ -12,6 +12,10 @@ body {
  	background-attachment: fixed;
 }
 
+body h1 {
+	text-align: center;
+}
+
 main {
 	display: flex;
 	flex-direction: column;
