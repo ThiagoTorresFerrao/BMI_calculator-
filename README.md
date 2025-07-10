@@ -1,5 +1,7 @@
 <h1 align="center">Calculadora de IMC / BMI calculator </h1>
 
+[BMI calculator - Click here](https://thiagotorresferrao.github.io/BMI_calculator-/)
+
 ## :memo: Descrição / Description
 Calculadora de Índice de Massa Corporal. / Body Mass Index Calculator.
 
